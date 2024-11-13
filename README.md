@@ -1,4 +1,4 @@
-## 팀 개발을 위한 github 시작하기
+## Github 공부하는 고양이
 
 ![image](https://png.pngtree.com/png-vector/20240408/ourlarge/pngtree-a-cat-illustration-vector-cartoon-cute-for-kids-png-image_12273192.png)
 
